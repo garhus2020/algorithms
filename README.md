@@ -1,2 +1,2 @@
-# algorithms
-my implementations of c++ algorithms
+# data structure
+my implementations of c++ data structures and algorithms
